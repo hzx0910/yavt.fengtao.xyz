@@ -141,7 +141,7 @@ $(document).ready(function () {
             y: height - 60,
             fill: "black"
         }).font(font_title);
-        svg.text("yavt.fengtao.xyz").attr({
+        svg.text("https://hzx0910.github.io/yavt.fengtao.xyz").attr({
             x: 20,
             y: height - 40,
             fill: "black"
